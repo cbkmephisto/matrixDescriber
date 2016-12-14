@@ -7,10 +7,12 @@ Trivial tool to summarize column-wised data file, printing min/mean/max/std for 
   [c41c0ee0]: http://eigen.tuxfamily.org/index.php
 
 - For Ubuntu Linux, install `libeigen3-dev` before `make`
+
     ```
     sudo apt-get update && sudo apt-get install libeigen3-dev
     ```
 - For Mac OS X, I used port:
+
     ```
     sudo port install eigen3
     ```
