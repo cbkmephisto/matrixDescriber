@@ -16,7 +16,7 @@ Trivial tool to summarize column-wised data file, printing min/mean/max/std for 
     ```
     sudo port install eigen3
     ```
-- Makefile may need to be modified for the actual path to [eigen3][c41c0ee0].
+- Other operating system may need to install the package with a different name, or download directly from the [eigen3][c41c0ee0] website. Makefile may need to be modified to correct for the full path to your [eigen3][c41c0ee0] header files.
 
 
 ## Compile
